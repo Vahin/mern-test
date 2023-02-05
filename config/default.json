@@ -1,0 +1,6 @@
+{
+  "port": 3000,
+  "jwtSecret": "mern-course",
+  "mongoUri": "mongodb+srv://Vakhr:Vexe3ba@cluster0.pu5ames.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:3000"
+}
